@@ -1,0 +1,14 @@
+discord
+dotenv
+pillow
+aiosqlite
+asyncpg
+aiofiles
+requests
+aiohttp
+# easyocr
+# numpy
+# fastapi
+# psycopg2
+
+#pip install -r requirements.txt
